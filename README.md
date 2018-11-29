@@ -2,18 +2,19 @@
 
 ### This repository stores my operating system lab code
 
-Environment ：Linux 
+Environment ：Linux    
+
 Language：C
 
-**description**
-Test1
+**Description**  
+Test1  
 Multiprocess and Multithread management.
 
-Test2
+Test2  
 Process communication: pipe，msg.
 
-Test3
+Test3  
 Process scheduling(FCFS,SJF,RR,Priority) and Process synchronization(Philosophers).
 
-Test4
+Test4  
 Memory management:virtual page(FIFO,CLOCK,LRU).
